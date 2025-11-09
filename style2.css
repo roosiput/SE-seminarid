@@ -1,0 +1,15 @@
+h1 {
+    font-family: Georgia, serif;
+    color: rgb(14, 64, 11);
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background: rgb(173, 213, 171);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+    margin: 45px 75px 100px;
+}
